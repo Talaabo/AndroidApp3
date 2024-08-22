@@ -9,7 +9,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.trios2024ammay.placeb"
+        applicationId = "com.trios2024ammy.placebook"
         minSdk = 29
         targetSdk = 34
         versionCode = 1
