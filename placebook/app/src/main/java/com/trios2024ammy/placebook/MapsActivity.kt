@@ -109,7 +109,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 //                    mMap.addMarker(MarkerOptions().position(latLng)
 //                        .title("You are here!")
 //                    )
-                    val update = CameraUpdateFactory.newLatLngZoom(latLng, 16.0f)
+                    val update = CameraUpdateFactory.newLatLngZoom(latLng, 14.0f)
                     mMap.moveCamera(update)
                 }
                 else
